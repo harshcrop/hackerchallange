@@ -1,0 +1,76 @@
+body{
+margin:0px auto;
+background-color:black;
+letter-spacing:1px;
+}
+#logo
+{	position:relative;
+	top:50px;
+	width:auto;
+	height:250px;
+}
+#salcon{
+width:260px;
+height:100px;
+float:left;
+position:fixed;
+}
+#welcomeimg{
+width:1000px;
+height: 125px;
+}
+#stage_left{
+background:#333333;
+opacity:0.7;
+color:white;
+width:800px;
+margin-left:20px;
+border-radius:10px;
+height:auto;
+display:block;
+padding:10px;
+}
+#stage_left b{
+font-family:Garamond,'Comic Sans',times;
+font-style:italic;
+font-size:25px;
+}
+#stage_left p{
+font-family:calibri;
+font-size:20px;
+text-align:left;
+margin-left:10px;
+}
+#stage_left pre{
+padding:10px;
+color:#000;
+background-color:#FFFFCC;
+text-align:left;
+word-wrap:break-word;
+white-space: pre-wrap;
+}
+#stage_left p a{	color:#000;
+}
+#stage_right{
+float:right;
+color:black;
+background:#666666;
+position:fixed;
+right:0%;
+width:420px;
+border-radius:10px;
+}
+#stage_right b{
+
+margin-top:10px;
+padding-left:19px;
+font-family:Garamond,'Comic Sans',times;
+font-size:25px;
+}
+hr{
+border:10px solid #cccccc;
+}
+#footer
+{	position:fixed;
+	bottom:0%;
+}
