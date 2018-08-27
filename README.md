@@ -1,6 +1,6 @@
 # Hacker Challange
 
-This is My first College project for the techfest I build this project for the Hacking Challage Competitaion in our GTU Tech-fest.it's mailny code in PHP.
+This is My first College project for the Tech-fest I build this project for the Hacking Challenge Competition in our GTU Tech-fest.it's mainly code in PHP.
 
 For Hodting this app you just need local server like , Wampp or MaMP etc..
 
